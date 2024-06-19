@@ -24,6 +24,9 @@
 |김보명|백엔드|<img src="https://github.com/Hiking-Planner/.github/assets/56792033/7844698d-ad06-4a3e-8d95-9a3deb01bbe3" width="90" height="90" src = "https://github.com/Kimbomyeong">|
 |김채인|백엔드|<img src="https://avatars.githubusercontent.com/u/56792033?v=4" width="90" height="90" src = "https://github.com/rlacodls3109">|
 
+## 서비스 아키텍처
+<추가하기>
+
 ## ✨ 기능 설명
 <details>
 <summary><b>등산길 이상 신고 기능</b></summary>
@@ -88,13 +91,18 @@
 </div>
 </details>
 
+## ✨ 최종발표 자료 
+<a href = "https://www.miricanvas.com/v/13bl7xv"> 하이킹플래너 최종발표 자료 </a>
+  
 ## 📱 시연 영상
+<추가하기>
 
 ## Etc
 <details>
 <summary>Figma</summary>
 <div markdown="1">
 <br>
+  
 ![image](https://github.com/Hiking-Planner/.github/assets/56792033/e69f5011-870e-4c23-9259-b0680d374d75)
 ![image](https://github.com/Hiking-Planner/.github/assets/56792033/295d0376-86b2-40e4-b4c1-2c3238a50ef2)
 ![image](https://github.com/Hiking-Planner/.github/assets/56792033/9f5ecd09-6f65-45e9-8cc2-765dc411207b)
@@ -106,6 +114,7 @@
 <summary>ERD</summary>
 <div markdown="1">
 <br>
+  
 ![image](https://github.com/Hiking-Planner/.github/assets/56792033/2397cc7c-751a-442f-96de-97b9489e0c93)
 
 </div>
@@ -117,3 +126,13 @@
 <a href="https://docs.google.com/spreadsheets/d/1uio1x40lJNK0rvMlclpTGyjlhik27eB5/edit?usp=sharing&ouid=117878540187699087371&rtpof=true&sd=true"> 하이킹플래너 기능명세서 바로가기 </a>
 </div>
 </details>
+<details>
+<summary>주요 기능 구현방식</summary>
+<div markdown="1">
+<br>
+<a href="https://github.com/Hiking-Planner/HikingPlanner_BE"> 백엔드 레포지토리 readme 바로가기 </a>
+<br>
+<a href="https://github.com/Hiking-Planner/PythonClusteringSever"> 경로 클러스터링 파이썬 서버 readme 바로가기 </a>
+</div>
+</details>
+
