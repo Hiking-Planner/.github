@@ -19,10 +19,10 @@
 ### 팀원 소개
 |name|position|Github|
 |------|---|---|
-|정성훈|프론트엔드|<img src="https://github.com/Hiking-Planner/.github/assets/56792033/4485e6b7-7302-45fd-9cf9-708cebb8a426" width="90" height="90" src = "https://github.com/seonghoon1201">|
-|김아름|프론트엔드|<img src="https://github.com/Hiking-Planner/.github/assets/56792033/2cc2272c-ca03-4877-b366-2485528c9baf" width="90" height="90" src = "https://github.com/k-a-reum">|
-|김보명|백엔드|<img src="https://github.com/Hiking-Planner/.github/assets/56792033/7844698d-ad06-4a3e-8d95-9a3deb01bbe3" width="90" height="90" src = "https://github.com/Kimbomyeong">|
-|김채인|백엔드|<img src="https://avatars.githubusercontent.com/u/56792033?v=4" width="90" height="90" src = "https://github.com/rlacodls3109">|
+|정성훈|프론트엔드|<a href="https://github.com/seonghoon1201"><img src="https://github.com/Hiking-Planner/.github/assets/56792033/4485e6b7-7302-45fd-9cf9-708cebb8a426" width="90" height="90"></a>|
+|김아름|프론트엔드|<a href="https://github.com/k-a-reum"><img src="https://github.com/Hiking-Planner/.github/assets/56792033/2cc2272c-ca03-4877-b366-2485528c9baf" width="90" height="90"></a>|
+|김보명|백엔드|<a href="https://github.com/Kimbomyeong"><img src="https://github.com/Hiking-Planner/.github/assets/56792033/7844698d-ad06-4a3e-8d95-9a3deb01bbe3" width="90" height="90"></a>|
+|김채인|백엔드|<a href="https://github.com/rlacodls3109"><img src="https://avatars.githubusercontent.com/u/56792033?v=4" width="90" height="90"></a>|
 
 ## 서비스 아키텍처
 <추가하기>
