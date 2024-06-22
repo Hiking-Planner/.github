@@ -25,7 +25,8 @@
 |김채인|백엔드|<a href="https://github.com/rlacodls3109"><img src="https://avatars.githubusercontent.com/u/56792033?v=4" width="90" height="90"></a>|
 
 ## 서비스 아키텍처
-<추가하기>
+![image](https://github.com/Hiking-Planner/.github/assets/56792033/67558b17-c37a-4e37-add1-30c1ccff24ff)
+
 
 ## ✨ 기능 설명
 <details>
