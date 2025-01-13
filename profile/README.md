@@ -96,7 +96,8 @@
 <a href = "https://www.miricanvas.com/v/13bl7xv"> 하이킹플래너 최종발표 자료 </a>
   
 ## 📱 시연 영상
-<추가하기>
+클릭 시 유튜브로 이동
+[![Video Label](http://img.youtube.com/vi/HifUM1FGUK8/0.jpg)](https://youtu.be/HifUM1FGUK8?t=0s)
 
 ## Etc
 <details>
